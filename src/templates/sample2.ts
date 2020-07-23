@@ -15,6 +15,7 @@ export const cocTemplateCertificate: CustomTemplateCertificate = {
   $template: {
     name: "COC",
     type: "EMBEDDED_RENDERER",
-    url: "http://localhost:3000"
+    // url: "http://localhost:3000"
+    url: "https://vigilant-shirley-690ecd.netlify.app"
   }
 };

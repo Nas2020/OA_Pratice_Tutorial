@@ -1,5 +1,9 @@
 # decentralized-renderer-react-template
 
+# Deployed netlify link of $template.url
+https://vigilant-shirley-690ecd.netlify.app
+
+
 [![CircleCI](https://circleci.com/gh/Open-Attestation/decentralized-renderer-react-template.svg?style=svg)](https://circleci.com/gh/Open-Attestation/decentralized-renderer-react-template)
 
 React boilerplate to write decentralize renderer.
